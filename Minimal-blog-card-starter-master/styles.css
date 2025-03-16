@@ -136,10 +136,10 @@ h1 {
   font-family: "Sora", sans-serif;
   font-size: 1.125rem;
   font-weight: 600;
-  margin: 10px auto;
+  margin: 10px 0px 3px auto;
 }
 
 .author_name {
-  margin-top: 10px;
+  margin-top: 20px;
   font-size: 0.75rem;
 }
