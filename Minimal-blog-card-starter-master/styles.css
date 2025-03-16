@@ -121,7 +121,8 @@ img {
   text-align: center;
   background-color: #f2eafd;
   color: #7c19ee;
-  margin-top: 10px;
+  margin-top: 12px;
+  font-size: 0.625rem;
 }
 
 p {
@@ -136,4 +137,9 @@ h1 {
   font-size: 1.125rem;
   font-weight: 600;
   margin: 10px auto;
+}
+
+.author_name {
+  margin-top: 10px;
+  font-size: 0.75rem;
 }
