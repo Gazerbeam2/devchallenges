@@ -99,30 +99,41 @@ body {
   background-color: #ffffff;
 }
 main {
-  max-width: 28rem;
+  max-width: 22rem;
+  padding: 15px;
   margin: auto;
   justify-content: center;
   align-items: center;
-  border: 0.5px solid black;
+  border: 0.5px solid white;
   border-radius: 10px;
+  /* Box-shadow */
+  box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
 }
 
 img {
   border-radius: 10px;
-  object-fit: cover;
 }
 
 .design_tag_div {
+  max-width: 70px;
   border-radius: 10px;
   border: 0.5px solid black;
+  text-align: center;
+  background-color: #f2eafd;
+  color: #7c19ee;
+  margin-top: 10px;
 }
 
 p {
   font-family: "Sora", sans-serif;
   font-size: 0.875rem;
+  line-height: 1.5;
+  font-weight: 300;
 }
 
 h1 {
   font-family: "Sora", sans-serif;
   font-size: 1.125rem;
+  font-weight: 600;
+  margin: 10px auto;
 }
